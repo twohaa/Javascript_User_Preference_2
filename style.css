@@ -1,0 +1,14 @@
+button{
+    background-color: #555555;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 40vh 90vh;
+}
+
+@media (max-width : 799px) {
+    button{
+        margin: 40vh 40vh;
+    }    
+}
